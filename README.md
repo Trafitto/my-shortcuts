@@ -17,6 +17,8 @@ This document collects the main keyboard shortcuts and configurations I use in m
 | Switch to next tab       | `Ctrl + Shift + →`      |
 | Switch to previous tab   | `Ctrl + Shift + ←`      |
 | Close current tab        | `Ctrl + Shift + Q`      |
+| Split horizontally       | `Ctrl + Shift + O`      |
+| Close split or terminal  | `Ctrl + Shift + w`      |
 
 ## 🪟 Pop Shell Keyboard Shortcuts
 
