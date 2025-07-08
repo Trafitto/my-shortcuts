@@ -20,6 +20,18 @@ This document collects the main keyboard shortcuts and configurations I use in m
 | Split horizontally       | `Ctrl + Shift + O`      |
 | Close split or terminal  | `Ctrl + Shift + w`      |
 
+## Tmux
+
+| Action                   | Shortcut                |
+|--------------------------|------------------------------------------|
+| Start tmux               | `tmux`                                   |
+| Create a named session   | `tmux new -s "session name"`             |
+| Show tmux session        | `tmux ls`                                |
+| Attach a session         | `tmux a -t "session name"`               |
+| Close session            | `tmux kill-session -t "session name" `   |
+
+
+
 ## 🪟 Pop Shell Keyboard Shortcuts
 
 | Action                              | Shortcut                  |
