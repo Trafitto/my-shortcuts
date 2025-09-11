@@ -39,7 +39,8 @@ This document collects the main keyboard shortcuts and configurations I use in m
 | Maximize window                    | `Super + M`               |
 | Minimize window                    | `Super + ,`               |
 | Toggle floating mode               | `Super + Y`               |
-| Close window                       | `Super + D`               |
+| Minimize all window                | `Super + D`               |
+| Close window                       | `Super + Q`               |
 | Toggle notifications menu          | `Super + V`               |
 | Open a terminal                    | `Super + T`               |
 | Open Files                         | `Super + F`               |
