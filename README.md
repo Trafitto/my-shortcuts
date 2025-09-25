@@ -34,21 +34,22 @@ This document collects the main keyboard shortcuts and configurations I use in m
 
 ## 🪟 Pop Shell Keyboard Shortcuts
 
-| Action                              | Shortcut                  |
-|------------------------------------|---------------------------|
-| Maximize window                    | `Super + M`               |
-| Minimize window                    | `Super + ,`               |
-| Toggle floating mode               | `Super + Y`               |
-| Minimize all window                | `Super + D`               |
-| Close window                       | `Super + Q`               |
-| Toggle notifications menu          | `Super + V`               |
-| Open a terminal                    | `Super + T`               |
-| Open Files                         | `Super + F`               |
-| Enter window adjustment mode       | `Super + Space`           |
-| Move focus to the left window      | `Super + Left Arrow`      |
-| Move focus to the right window     | `Super + Right Arrow`     |
-| Move focus to the window above     | `Super + Up Arrow`        |
-| Move focus to the window below     | `Super + Down Arrow`      |
+| Action                                         | Shortcut                  |
+|------------------------------------------------|---------------------------|
+| Maximize window                                | `Super + M`               |
+| Minimize window                                | `Super + ,`               |
+| Toggle floating mode                           | `Super + Y`               |
+| Minimize all window                            | `Super + D`               |
+| Close window                                   | `Super + Q`               |
+| Toggle notifications menu                      | `Super + V`               |
+| Open a terminal                                | `Super + T`               |
+| Open Files                                     | `Super + F`               |
+| Move focus to the left window                  | `Super + Left Arrow`      |
+| Move focus to the right window                 | `Super + Right Arrow`     |
+| Move focus to the window above                 | `Super + Up Arrow`        |
+| Move focus to the window below                 | `Super + Down Arrow`      |
+| Enter window adjustment mode                   | `Super + enter`           |
+| In window adjust mode change window dimension  | `shif + arrow key`        |
 
 ## 🐚 Shell Configuration
 
