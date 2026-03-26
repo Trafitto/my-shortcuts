@@ -11,14 +11,36 @@ This document collects the main keyboard shortcuts and configurations I use in m
 
 ## ⌨️ Kitty Terminal Shortcuts
 
+### Window Management
+
+| Action                   | Shortcut                |
+|--------------------------|-------------------------|
+| Open a new window (split)| `Ctrl + Shift + Enter`  |
+| Next window              | `Ctrl + Shift + J`      |
+| Previous window          | `Ctrl + Shift + K`      |
+
+### Layout Management
+
+| Action                   | Shortcut                |
+|--------------------------|-------------------------|
+| Next layout              | `Ctrl + Shift + L`      |
+| Switch to Tall layout    | `Ctrl + Alt + R`        |
+| Switch to Stack layout   | `Ctrl + Alt + S`        |
+
+### Tab Management
+
 | Action                   | Shortcut                |
 |--------------------------|-------------------------|
 | Open a new tab           | `Ctrl + Shift + T`      |
 | Switch to next tab       | `Ctrl + Shift + →`      |
 | Switch to previous tab   | `Ctrl + Shift + ←`      |
 | Close current tab        | `Ctrl + Shift + Q`      |
-| Split horizontally       | `Ctrl + Shift + O`      |
-| Close split or terminal  | `Ctrl + Shift + w`      |
+
+### Font Size
+
+| Action                   | Shortcut                |
+|--------------------------|-------------------------|
+| Reset font size          | `Ctrl + Shift + Backspace` |
 
 ## Tmux
 
